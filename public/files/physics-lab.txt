@@ -1,0 +1,9 @@
+Физика. Гармонические колебания.
+
+Груз m = 0,2 кг, жёсткость k = 50 Н/м.
+T = 2π√(m/k). Ответ — с двумя знаками после запятой.
+
+Physics. Simple harmonic motion.
+
+Mass m = 0.2 kg, spring k = 50 N/m.
+T = 2π√(m/k). Two decimal places.

@@ -1,0 +1,21 @@
+Лицей «Набережная» — лабораторная по спискам (информатика, 11-Б)
+
+Напишите функцию even_sum(xs), которая возвращает сумму чётных чисел списка.
+
+Проверьте на:
+  [1, 2, 3, 4]  →  6
+  []            →  0
+  [7, 9]        →  0
+
+Не изменяйте исходный список внутри цикла.
+
+Embankment Lyceum — lists lab (informatics, Form 11-B)
+
+Write even_sum(xs) that returns the sum of even numbers in a list.
+
+Check:
+  [1, 2, 3, 4]  →  6
+  []            →  0
+  [7, 9]        →  0
+
+Do not mutate the list you are walking.

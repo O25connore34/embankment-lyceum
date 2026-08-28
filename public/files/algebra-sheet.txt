@@ -1,0 +1,15 @@
+Алгебра, 11-Б. Дискриминант.
+
+1) x² − 5x + 6 = 0
+2) x² + 4x + 5 = 0
+3) 2x² − 4x + 2 = 0
+
+Для каждого: D и число действительных корней.
+
+Algebra, Form 11-B. Discriminant.
+
+1) x² − 5x + 6 = 0
+2) x² + 4x + 5 = 0
+3) 2x² − 4x + 2 = 0
+
+For each: D and the number of real roots.

@@ -1,0 +1,5 @@
+Чтение файла. Снимите перевод строки через strip().
+Сдайте программу, которая считает число непустых строк в файле задания.
+
+Reading a file. Strip the newline.
+Turn in a program that counts non-empty lines in the assignment file.
